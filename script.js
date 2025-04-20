@@ -49,4 +49,5 @@ document.addEventListener('DOMContentLoaded', () => {
           addPostBtn.click(); // Trigger the click event of the button
       }
   });
+  
 }); 
